@@ -1,2 +1,3 @@
-# goflag
-Additional flags utilities for golang.
+# Go Flags
+
+Additional flag utilities for golang.
